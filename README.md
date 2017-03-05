@@ -11,13 +11,10 @@ this is environment configuration for react、redux、express and so on.
 | webpack       | 1.14.0
 | express       | 4.15.0 
 | react-router  | 3.0.2
-## Installation ##
+## Installation and run ##
 ```
  npm install && npm start
-```
-## run ##
-```
-  localhost:4000
+ localhost:4000
 ```
 ## entry ##
 + client
