@@ -1,6 +1,6 @@
 # webpack-react-redux-express #
 ## Introduction ##
-this is environment configuration for react、redux、express.
+this is environment configuration for react、redux、express and so on.
 
 ## configuration ##
 | involve       | Version       
