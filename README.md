@@ -1,15 +1,15 @@
-# webpack-react-redux-express #
+# webpack-configuration #
 ## 介绍 ##
 这是一个搭建好的react、react-router、redux、ant design、express的SPA环境。
-## 配置 ##
-| 框架           | 版本      
-| ------------- |:-------------:
-| react         | 15.4.2
-| redux         | 3.6.0
-| ant design    | 2.7.4
-| webpack       | 1.14.0
-| express       | 4.15.0 
-| react-router  | 3.0.2
+## 依赖的框架/库 ##  
+| react            | 15.4.2
+| redux            | 3.6.0
+| ant design       | 2.7.4
+| webpack          | 1.14.0
+| express          | 4.15.0 
+| react-router     | 3.0.2
+| isomorphic-fetch | 2.2.1
+| babel            | 6.23.0
 ## 运行 ##
 ```
  npm install && npm start
